@@ -8,7 +8,7 @@
 4. Adopt modular, componentized and engineering model development
 
 
-### 2.1 Project development process and development methods
+### 1.1 Project development process and development methods
 
 1. Be familiar with the development process of a project
 2. Learn component-based, modular, and engineering development models
@@ -17,7 +17,7 @@
 5. Learn how to develop ES6+eslint
 6. Master some project optimization skills
 
-### 2.2 Vue plug-in or third-party library
+### 1.2 Vue plug-in or third-party library
 
 1. Use vue-router to develop SPA single-page applications
 2. Use axios/vue-resource to interact with backend data
@@ -28,7 +28,7 @@
 7. Use mockjs to simulate the background data interface
 
 
-## 4. Run the project
+## 2. Run the project
 
 **Run the server first, then open the project**
 
@@ -47,7 +47,7 @@
 1. Log in with your mobile phone number and enter the mobile phone number that matches the format.
 2. Password login, default username abc, password 123
 
-## 5. Project screenshots
+## 3. Project screenshots
 
 1. Home page
 
