@@ -1,86 +1,82 @@
-# 简介
+# FoodOrdering-App
 
-## 1. 项目描述
+## 1. Project description
 
-1. 此项目为一个前后端分离的外卖 Web App (SPA) 项目
-2. 使用了 Vue 全家桶+ES6+Webpack 等前端最新技术 
-3. 包括商家, 商品, 购物车, 用户等多个功能子模块 
-4. 采用模块化、组件化、工程化的模式开发 
+1. This project is a takeaway Web App (SPA) project with separate front-end and back-end
+2. Used the latest front-end technologies such as Vue + ES6 + Webpack
+3. Including multiple functional sub-modules such as merchants, products, shopping carts, users, etc.
+4. Adopt modular, componentized and engineering model development
 
-## 2. 能从此项目中学到什么? 
 
-### 2.1 项目开发流程及开发方法 
+### 2.1 Project development process and development methods
 
-1. 熟悉一个项目的开发流程
-2. 学会组件化、模块化、工程化的开发模式 
-3. 掌握使用 vue-cli 脚手架初始化 Vue.js 项目
-4. 学会模拟 json 后端数据，实现前后端分离开发 
-5. 学会 ES6+eslint 的开发方式 
-6. 掌握一些项目优化技巧
+1. Be familiar with the development process of a project
+2. Learn component-based, modular, and engineering development models
+3. Master the use of vue-cli scaffolding to initialize Vue.js projects
+4. Learn to simulate json back-end data and achieve separate development of front-end and back-end
+5. Learn how to develop ES6+eslint
+6. Master some project optimization skills
 
-### 2.2 Vue 插件或第三方库
+### 2.2 Vue plug-in or third-party library
 
-1. 学会使用 vue-router 开发SPA单页应用 
-2. 学会使用 axios/vue-resource 与后端进行数据交互
-3. 学会使用 vuex 管理应用组件状态
-4. 学会使用 better-scroll/vue-scroller 实现页面滑动效果
-5. 学会使用 mint-ui 组件库构建界面
-6. 学会使用 vue-lazyload 实现图片惰加载
-7. 学会使用 mockjs 模拟后台数据接口  
+1. Use vue-router to develop SPA single-page applications
+2. Use axios/vue-resource to interact with backend data
+3. Use vuex to manage application component status
+4. Use better-scroll/vue-scroller to achieve page sliding effect
+5. Use mint-ui component library to build interfaces
+6. Use vue-lazyload to implement lazy loading of images
+7. Use mockjs to simulate the background data interface
 
-## 3. API接口文档
 
-[项目API接口文档](https://github.com/git-canye/foodshop/blob/master/mintshop-server/API.md)
+## 4. Run the project
 
-## 4. 运行项目
+**Run the server first, then open the project**
 
-**先运行服务器，再打开项目**
-
-**canyeshop-server文件夹下cmd命令：**
+**cmd command under canyeshop-server folder:**
 
 1. `npm install`
 2. `npm start`
 
-**canyeshop-client文件夹下cmd命令：**
+**cmd command under canyeshop-client folder:**
 
 1. `npm install`
 2. `npm start`
 
-**登陆**
+**Login**
 
-1. 手机号登陆，输入符合格式的手机号即可
-2. 密码登陆，默认用户名abc，密码123
+1. Log in with your mobile phone number and enter the mobile phone number that matches the format.
+2. Password login, default username abc, password 123
 
-## 5. 项目截图
+## 5. Project screenshots
 
-1. 首页
+1. Home page
 
 <img src="/shows/msite.png" width="300" height="500" alt="msite"/>
 
-2. 订单
+2. Order
 
 <img src="/shows/order.png" width="300" height="500" alt="order"/>
 
-3. 搜索
+3. Search
 
 <img src="/shows/search.png" width="300" height="500" alt="search"/>
 
-4. 个人
+4. Mine
 
 <img src="/shows/profile.png" width="300" height="500" alt="profile"/>
 
-5. 登陆
+5. Login
 
 <img src="/shows/login.png" width="300" height="500" alt="login"/>
 
-6. 点餐
+6. Order food
 
 <img src="/shows/food.png" width="300" height="500" alt="food"/>
 
-7. 评价
+7. Customer Evaluation
 
 <img src="/shows/rating.png" width="300" height="500" alt="rating"/>
 
-8. 商店详情
+8. Store details
 
 <img src="/shows/shop-detail.png" width="300" height="500" alt="shop-detail"/>
